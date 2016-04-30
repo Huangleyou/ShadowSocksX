@@ -53,3 +53,7 @@
 ### 查看log:
 
 `$ tail -n100 -f /var/log/shadowsocks.log`
+
+## 客户端:
+
+![image](https://github.com/sin9188/ShadowSocksX/raw/master/client.jpg)
