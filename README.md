@@ -28,7 +28,7 @@
 
 >   "server":"0.0.0.0",
    
->   "port":8388,
+>   "server_port":8388,
    
 >   "local_address": "127.0.0.1",
    
